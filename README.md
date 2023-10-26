@@ -4,4 +4,8 @@
 
 #Diário de Bordo
 
-22-HTML5 E CSS3
+25/10/2023 - criando formulário basico
+
+pagina 104 
+
+25-HTML5 E CSS3
