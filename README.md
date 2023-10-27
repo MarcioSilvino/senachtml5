@@ -9,3 +9,7 @@
 pagina 104 
 
 25-HTML5 E CSS3
+
+26/10/2023
+pagina 105 - Exercicio 1 ( começando a criar um currículo usando tags que aprendemos em sala de aula ) 
+pouco trabalhado por causa da Palestra que tivemos
