@@ -13,3 +13,7 @@ pagina 104
 26/10/2023
 pagina 105 - Exercicio 1 ( começando a criar um currículo usando tags que aprendemos em sala de aula ) 
 pouco trabalhado por causa da Palestra que tivemos
+
+30/10/2023
+modificando um site com cores e tags.
+pagina 138
