@@ -17,3 +17,7 @@ pouco trabalhado por causa da Palestra que tivemos
 30/10/2023
 modificando um site com cores e tags.
 pagina 138
+
+05/12/23
+Entrada de texto de área página 220
+Aprendendo a formatar páginas por CSS
