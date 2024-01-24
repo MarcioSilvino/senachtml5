@@ -21,3 +21,6 @@ pagina 138
 05/12/23
 Entrada de texto de área página 220
 Aprendendo a formatar páginas por CSS
+
+11/12/2023
+página 228 Cabeçalho: área de anúncio. Construindo um css para um site
