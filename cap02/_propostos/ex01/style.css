@@ -1,0 +1,7 @@
+body{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: auto;
+    background-image: linear-gradient(  left rgb(9, 177, 243), rgb(21, 163, 173), black);
+}
